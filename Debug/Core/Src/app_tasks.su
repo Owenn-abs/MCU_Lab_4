@@ -1,0 +1,12 @@
+app_tasks.c:13:6:Task_Blink_Red	8	static
+app_tasks.c:20:6:Task_Blink_Yellow	8	static
+app_tasks.c:27:6:Task_Blink_Green	8	static
+app_tasks.c:34:6:Task_Blink_Blue	8	static
+app_tasks.c:41:6:Task_Blink_Pink	8	static
+app_tasks.c:48:6:Task_Trace_10ms	8	static
+app_tasks.c:57:6:Task_Once_350ms	8	static
+app_tasks.c:63:6:Task_Once_750ms	8	static
+app_tasks.c:69:6:Task_Cancelled	8	static
+app_tasks.c:74:6:Task_Delete_600ms	16	static
+app_tasks.c:83:6:App_SetCancelledTaskID	16	static
+app_tasks.c:88:6:App_Init	16	static

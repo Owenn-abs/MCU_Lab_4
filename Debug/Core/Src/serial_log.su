@@ -1,0 +1,2 @@
+serial_log.c:9:6:Serial_Log	160	static
+serial_log.c:25:6:Serial_Poll	4	static

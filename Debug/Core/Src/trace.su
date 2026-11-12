@@ -1,0 +1,2 @@
+trace.c:7:6:Trace_Init	24	static
+trace.c:17:6:Trace_Record	24	static
